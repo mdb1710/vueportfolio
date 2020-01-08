@@ -1,21 +1,21 @@
 <template>
-   <div class='my-world'>
-       <h1>{{ msg }}</h1>
-       <p>Testing out Vue for Friday's meeting</p>
-   </div> 
+  <div class="my-world">
+    <h1>{{ title }}</h1>
+    <p>A dev blog by Michael D Bonner</p>
+  </div>
 </template>
 
 <script>
 export default {
-  name: 'MyWorld',
+  name: "MyWorld",
   props: {
-    msg: String
+    title: String
   }
-}
+};
 </script>
 
 <style scoped>
-  h3 {
+h3 {
   margin: 40px 0 0;
 }
 </style>
