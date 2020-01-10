@@ -1,10 +1,12 @@
 import Vue from "vue";
 import VueRouter from "vue-router";
 import Home from "../views/Home.vue";
+import Foo from "../posts/2019/foo.md";
+import Test from "../posts/2020/we-did-it.md";
 
 Vue.use(VueRouter);
 
-import BlogEntries from "../statics/data/blogs.json";
+import BlogEntries from "../data/blogs.js";
 
 const blogRoutes = Object.keys(BlogEntries).map(section => {
   const children = BlogEntries[section].map(child => ({
@@ -15,7 +17,7 @@ const blogRoutes = Object.keys(BlogEntries).map(section => {
   return {
     path: `/${section}`,
     name: section,
-    component: () => import("../views/Posts.vue"),
+    component: () => import("../views/Blog.vue"),
     children
   };
 });
@@ -41,7 +43,25 @@ const routes = [
     component: () =>
       import(/* webpackChunkName: "about" */ "../views/Links.vue")
   },
-
+  {
+    path: "/posts",
+    name: "posts",
+    // route level code-splitting
+    // this generates a separate chunk (about.[hash].js) for this route
+    // which is lazy-loaded when the route is visited.
+    component: () =>
+      import(/* webpackChunkName: "about" */ "../views/Posts.vue")
+  },
+  {
+    path: "/foo",
+    name: "foo",
+    component: Foo
+  },
+  {
+    path: "/test",
+    name: "test",
+    component: Test
+  },
   ...blogRoutes
 ];
 

@@ -7,10 +7,6 @@
 </template>
 
 <style scoped>
-.blog {
-  max-width: 50vw;
-  margin: 10rem auto;
-}
 .back {
   background-color: #42b883;
   color: white;
