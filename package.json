@@ -6,11 +6,13 @@
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint",
-    "deploy": "aws s3 sync ./dist s3://your-bucket-name"
+    "deploy": "aws s3 sync ./dist s3://code-composer-client"
   },
   "dependencies": {
     "core-js": "^3.4.4",
     "vue": "^2.6.10",
+    "vue-loader": "^15.8.3",
+    "vue-markdown-loader": "^2.4.1",
     "vue-router": "^3.1.3"
   },
   "devDependencies": {
@@ -21,7 +23,7 @@
     "babel-eslint": "^10.0.3",
     "eslint": "^5.16.0",
     "eslint-plugin-vue": "^5.0.0",
-    "vue-template-compiler": "^2.6.10"
+    "vue-template-compiler": "^2.6.11"
   },
   "eslintConfig": {
     "root": true,
