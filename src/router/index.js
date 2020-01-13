@@ -6,7 +6,7 @@ import Test from "../posts/2020/we-did-it.md";
 
 Vue.use(VueRouter);
 
-import BlogEntries from "../data/blogs.js";
+import BlogEntries from "../data/blogs.json";
 
 const blogRoutes = Object.keys(BlogEntries).map(section => {
   const children = BlogEntries[section].map(child => ({
