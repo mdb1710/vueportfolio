@@ -2,7 +2,7 @@ import Vue from "vue";
 import VueRouter from "vue-router";
 import Home from "../views/Home.vue";
 import Foo from "../posts/2019/foo.md";
-import Test from "../posts/2020/we-did-it.md";
+// import Deep from "..posts/Code/deep-end-of-code-part-one.md";
 
 Vue.use(VueRouter);
 
@@ -57,11 +57,11 @@ const routes = [
     name: "foo",
     component: Foo
   },
-  {
-    path: "/test",
-    name: "test",
-    component: Test
-  },
+  // {
+  //   path: "/deep-end-of-code-part-one",
+  //   name: "deep-end-of-code-part-one",
+  //   component: Deep
+  // },
   ...blogRoutes
 ];
 

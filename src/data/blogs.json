@@ -1,13 +1,19 @@
 {
-  "2019": [
+  "2020": [
     {
       "id": "foo",
-      "date": "March 10, 2019",
+      "date": "January 13, 2020",
       "title": "Creating a Simple Blog using Vue + Markdown",
       "description": "Simple and neat way to add a blogging feature to add on your website."
+    },
+    {
+      "id": "deep-end-of-tech-part-one",
+      "date": "January 13, 2020",
+      "title": "Why I Dove Into The Deep End of Tech Part One",
+      "description": "The first steps I took as a Code Composer and why..."
     }
   ],
-  "2020": [
+  "MusicTech": [
     {
       "id": "we-did-it",
       "date": "April 21, 2018",
