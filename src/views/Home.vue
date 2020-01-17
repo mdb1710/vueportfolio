@@ -1,6 +1,6 @@
 <template>
   <div class="home">
-    <MyWorld title="Code Composer" />
+    <MyWorld title="Code Composer" description="A dev blog by Michael D Bonner" />
   </div>
 </template>
 
