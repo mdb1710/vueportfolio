@@ -1,22 +1,22 @@
 {
   "2020": [
     {
-      "id": "foo",
-      "date": "January 13, 2020",
-      "title": "Creating a Simple Blog using Vue + Markdown",
-      "description": "Simple and neat way to add a blogging feature to add on your website."
-    },
-    {
       "id": "deep-end-of-tech-part-one",
       "date": "January 13, 2020",
       "title": "Why I Dove Into The Deep End of Tech Part One",
+      "description": "The first steps I took as a Code Composer and why..."
+    },
+    {
+      "id": "deep-end-of-tech-part-two",
+      "date": "January 24, 2020",
+      "title": "Why I Dove Into The Deep End of Tech Part Two",
       "description": "The first steps I took as a Code Composer and why..."
     }
   ],
   "MusicTech": [
     {
       "id": "we-did-it",
-      "date": "April 21, 2018",
+      "date": "January 24, 2020",
       "title": "The Best Music API of 2020 So Far",
       "description": "If you're ready to build the next FruityLoops you can start with an api here"
     },
