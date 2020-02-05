@@ -1,4 +1,12 @@
 {
+  "#CodeComposer": [
+    {
+      "id": "its-about-time",
+      "date": "February 5, 2020",
+      "title": "It's About Time",
+      "description": "Daily blog - February 5, 2020"
+    }
+  ],
   "2020": [
     {
       "id": "deep-end-of-tech-part-one",
@@ -22,8 +30,8 @@
     },
     {
       "id": "we-made-it",
-      "date": "May 5, 2018",
-      "title": "Music Distribution Web Apps",
+      "date": "February 5, 2020",
+      "title": "Using The Spotify API to Create Custom Apps",
       "description": "A web browser is all you need to start putting your music on iTunes"
     }
   ]
