@@ -40,13 +40,19 @@
       "id": "castles-on-quicksand",
       "date": "February 13, 2020",
       "title": "Castles On Quicksand",
-      "description": "Daily blog - February 12, 2020"
+      "description": "Daily blog - February 13, 2020"
     },
     {
       "id": "love-is-so-amazing",
       "date": "February 14, 2020",
       "title": "Love Is So Amazing",
-      "description": "Daily blog - February 12, 2020"
+      "description": "Daily blog - February 14, 2020"
+    },
+    {
+      "id": "live-and-learn",
+      "date": "February 17, 2020",
+      "title": "Live & Learn",
+      "description": "Daily blog - February 17, 2020"
     }
   ],
   "2020": [
