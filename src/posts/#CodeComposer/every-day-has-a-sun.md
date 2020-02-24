@@ -1,20 +1,20 @@
-# Without The Rain
+# Every Day Has A Sun
 
-## February 20, 2020
+## February 21, 2020
 
 One week until my birthday so BirthWeek 2020 will be happening soon...
 
-### Song: Without The Rain
+### Song: Every Day Has A Sun
 
-### Artist: Ladae
+### Artist: Shomani
 
-### Album: The Moment
+### Album: Every Day Has A Sun
 
-### Release Year: 1993
+### Release Year: 1991
 
-I understand that rain is part of the 'circle of life' but it ruins so many plans. I mean both the literal rain and the figurative rain. Keeping up with tasks in the dev world is very different that in marketing and I'm still learning that. However my biggest stumbling block was solved this morning so I'm feeling sunny despite the rain.
+The sun finally came out on Friday and I was able to visit the Google Atlanta headquarters for the first time. It was an awesome all day experience learning about NgRx and seeing a glimpse of how the big G works. I get now why people would want to work at a big tech company.
 
-I finally get the hype of Docker. I do need to learn more before I really use it but I do get it.
+I got to go to the NgRx workshop for free and it was a lot of information but I was so inspired about Angular and NgRx after I was done. The only negative was that it was an all day workshop so I didn't do much else for the day. It was worth it.
 
 ### What I'm Working On
 
