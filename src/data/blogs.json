@@ -83,6 +83,18 @@
       "date": "February 20, 2020",
       "title": "Every Day Of The Week",
       "description": "Daily blog - February 24, 2020"
+    },
+    {
+      "id": "birthday-dance",
+      "date": "February 26, 2020",
+      "title": "Birthday Dance",
+      "description": "Daily blog - February 26, 2020"
+    },
+    {
+      "id": "after-the-dance",
+      "date": "February 28, 2020",
+      "title": "After The Dance",
+      "description": "Daily blog - February 28, 2020"
     }
   ],
   "2020": [
