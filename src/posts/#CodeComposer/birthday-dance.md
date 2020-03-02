@@ -1,24 +1,24 @@
-# Every Day Of The Week
+# Birthday Dance
 
-## February 24, 2020
+## February 246, 2020
 
-Two days until my birthday....but it's still a Monday
+I've crossed the bridge into another year - Happy Birthday to me
 
-### Song: Every Day Of The Week
+### Song: Birthday Dance
 
-### Artist: Jade
+### Artist: JudaCamp
 
-### Album: Every Day Of The Week
+### Album: Birthday Dance
 
-### Release Year: 1994
+### Release Year: 2016
 
-Birthweek starts today!
+Happy Birthday To Me!
 
-Although my actual birthday is Wednesday I actually celebrated for two weeks minimum. Sometimes I start as early as the 18th (after my brother's birthday) and sometimes I start closer to the actual day. Birthweek is a way to intentionally enjoy life and remember its true value. I already got a early birthday present...
+This birthday seems a lot more low key than other birthdays. Not just because it's not a 'flagship' year like other years. It's because I feel like I'm in the middle of a period than starting or ending one. However with all of the ups and downs that 2019 brought to me I am glad I made it on the other side of through.
 
-First was the free NgRx workshop I attended on Friday. The second I received via email later in the weekend. I got a free ticket to go to React Loop 2020. It's in Chicago in June and I've never been there.
+I will be working on my major open source project via a Twitter exchange. I will be helping clean up the docs for the official Facebook React Native repo. If that is not a great tech birthday present I don't know what is.
 
-I'll be working hard every day this week and celebrating life at the same time. For #mondaymotivation I hope you do the same.
+Besides Ms. Badu and Mr. Bolton I don't think anyone shares my birthday but I do hope your 'regular' Wednesday is just as good
 
 ### What I'm Working On
 

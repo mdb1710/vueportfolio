@@ -1,24 +1,22 @@
-# Every Day Of The Week
+# After The Dance
 
-## February 24, 2020
+## February 28, 2020
 
-Two days until my birthday....but it's still a Monday
+The actual birthday is over but Birthweek 2020 is still beginning...
 
-### Song: Every Day Of The Week
+### Song: After The Dance
 
-### Artist: Jade
+### Artist: El Debarge
 
-### Album: Every Day Of The Week
+### Album: In The Storm
 
-### Release Year: 1994
+### Release Year: 1992
 
-Birthweek starts today!
+Happy (Almost) Leap Day!
 
-Although my actual birthday is Wednesday I actually celebrated for two weeks minimum. Sometimes I start as early as the 18th (after my brother's birthday) and sometimes I start closer to the actual day. Birthweek is a way to intentionally enjoy life and remember its true value. I already got a early birthday present...
+Since my birthday is near the end of February I probably pay more attention to Leap Years than most people. I still need to look up who came with the algorithm for this. It means my birthday the following year will skip a day and so will NYE and Christmas Day.
 
-First was the free NgRx workshop I attended on Friday. The second I received via email later in the weekend. I got a free ticket to go to React Loop 2020. It's in Chicago in June and I've never been there.
-
-I'll be working hard every day this week and celebrating life at the same time. For #mondaymotivation I hope you do the same.
+I will be working hard this weekend because I have plenty of deadlines. But it's still Birthweek so I will be having some kind of fun in the sunshine. Have a great weekend!
 
 ### What I'm Working On
 
