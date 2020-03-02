@@ -1,24 +1,24 @@
-# Every Day Of The Week
+# Nothin' Move But The Money
 
 ## February 24, 2020
 
-Two days until my birthday....but it's still a Monday
+Happy March! And the countdown to Daylight Savings begins...
 
-### Song: Every Day Of The Week
+### Song: Nothin' Move But The Money
 
-### Artist: Jade
+### Artist: Mic Geronimo
 
-### Album: Every Day Of The Week
+### Album: The Arrival
 
-### Release Year: 1994
+### Release Year: 1997
 
-Birthweek starts today!
+New month, new Monday, new money goals....
 
-Although my actual birthday is Wednesday I actually celebrated for two weeks minimum. Sometimes I start as early as the 18th (after my brother's birthday) and sometimes I start closer to the actual day. Birthweek is a way to intentionally enjoy life and remember its true value. I already got a early birthday present...
+Being a freelance developer has its ups and its downs. Just like in sales you have to make sure your pipeline is on point. Even though I will be doing lots of coding today the bulk of my time this Monday will be searching and lining up jobs for the second quarter.
 
-First was the free NgRx workshop I attended on Friday. The second I received via email later in the weekend. I got a free ticket to go to React Loop 2020. It's in Chicago in June and I've never been there.
+I will also focus on making sure I do more open source contributions starting with the React Native docs assigned to me. I almost feel like a real developer with this even though I'm just doing cleanup.
 
-I'll be working hard every day this week and celebrating life at the same time. For #mondaymotivation I hope you do the same.
+Happy March Monday y'all
 
 ### What I'm Working On
 
