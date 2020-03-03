@@ -2,7 +2,7 @@
 
 ## March 2, 2020
 
-Happy March! And the countdown to Daylight Savings begins...
+March and the rain are still here....
 
 ### Song: Sunshine
 
@@ -12,19 +12,19 @@ Happy March! And the countdown to Daylight Savings begins...
 
 ### Release Year: 1999
 
-New month, new Monday, new money goals....
+Yeah I'm not a fan of rain at all.
 
-Being a freelance developer has its ups and its downs. Just like in sales you have to make sure your pipeline is on point. Even though I will be doing lots of coding today the bulk of my time this Monday will be searching and lining up jobs for the second quarter.
+Rain can be peaceful but the gloomy weather can often take me out of my 'concentrated hustle' mode. The sun is supposed to break out today and like the sun I am going to break out with some new things for March.
 
-I will also focus on making sure I do more open source contributions starting with the React Native docs assigned to me. I almost feel like a real developer with this even though I'm just doing cleanup.
+Beside working on building my blogs I will also work more on my freelance project. I also started some convo for more work to help finish out the month. Hustling as a developer is hard but I am starting to find my footing.
 
-Happy March Monday y'all
+I will also be carving out time to work on building a blockchain app with Sia and Skynet. It's gonna be a very busy first week in March.
 
 ### What I'm Working On
 
 - Coding Challenge from potential employer
 - Freelance work
-- Finishing the design for my Big Brother Canada quiz app
+- ReactATL Meetup
 - Starting something on the Spoon App.
 
 ### What I Learning Right Now
