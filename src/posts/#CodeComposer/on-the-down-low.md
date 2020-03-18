@@ -1,33 +1,33 @@
-# Sunshine
+# On The Down Low
 
-## March 2, 2020
+## March 16, 2020
 
-March and the rain are still here....
+It's Quarantine Season not Cuffing Season....
 
-### Song: Sunshine
+### Song: On The Down Low
 
-### Artist: Coko
+### Artist: Brian McKnight
 
-### Album: Hot Coko
+### Album: Brian McKnight
 
-### Release Year: 1999
+### Release Year: 1993
 
-Yeah I'm not a fan of rain at all.
+I have cabin fever
 
-Rain can be peaceful but the gloomy weather can often take me out of my 'concentrated hustle' mode. The sun is supposed to break out today and like the sun I am going to break out with some new things for March.
+I'm an introvert who works remotely so social distancing is already somewhat of a thing with me but I still like being around people. Being 'confined' at home can make me restless and eventually unproductive so I have to find ways to move around when coding.
 
-Beside working on building my blogs I will also work more on my freelance project. I also started some convo for more work to help finish out the month. Hustling as a developer is hard but I am starting to find my footing.
+I still have online interviews this week so I'm still trying to get work despite the uncertainty of this economy. April and May look to be tough months for our country so I'm glad I've gotten ahead of this
 
-I will also be carving out time to work on building a blockchain app with Sia and Skynet. It's gonna be a very busy first week in March.
+Also I apologize for the mini break I took from blogging but I needed the headspace. I will try my best to keep up the post from now on. Be safe and have a great week
 
 ### What I'm Working On
 
 - Coding Challenge from potential employer
-- Freelance work
-- ReactATL Meetup
-- Starting something on the Spoon App.
+- More Freelance work
+- Funding The Future Hackathon
+- Studying for Google Interview
 
 ### What I Learning Right Now
 
-- Blockchain 101
-- Angular 9
+- Etherium Development
+- Tips for Typescript
